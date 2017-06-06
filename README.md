@@ -1,4 +1,4 @@
-+#Projekt
+Projekt
 Projekt na zaliczenie PO
 
 Gra zręcznościowa Wojna światów (strzelanka)
