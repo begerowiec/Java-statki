@@ -1,5 +1,4 @@
-Projekt
-Projekt na zaliczenie PO
+Projekt w języku Java
 
 Gra zręcznościowa Wojna światów (strzelanka)
 Założenia gry:
